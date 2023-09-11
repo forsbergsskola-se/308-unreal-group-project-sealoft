@@ -1,0 +1,24 @@
+[0828/122754.787:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0828/150511.040:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0828/150511.052:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0828/150511.072:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0828/150511.076:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0828/150516.048:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0828/150516.060:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0828/150516.077:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0828/150516.093:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0829/150958.880:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0829/150959.094:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0829/150959.100:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0829/151059.640:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0829/151059.661:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0829/151059.679:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0829/154609.755:WARNING:gpu_process_host.cc(1296)] The GPU process has crashed 1 time(s)
+[0829/154610.599:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0829/154611.511:WARNING:gpu_process_host.cc(1016)] Reinitialized the GPU process after a crash. The reported initialization time was 432 ms
+[0829/154639.594:WARNING:gpu_process_host.cc(1296)] The GPU process has crashed 2 time(s)
+[0829/154639.622:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0829/154640.001:WARNING:gpu_process_host.cc(1016)] Reinitialized the GPU process after a crash. The reported initialization time was 300 ms
+[0830/112728.827:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0830/112728.847:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0830/112728.899:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.

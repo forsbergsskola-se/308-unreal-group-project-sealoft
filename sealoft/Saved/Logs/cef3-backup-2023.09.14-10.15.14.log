@@ -1,0 +1,2 @@
+[0914/121322.949:ERROR:entry_impl.cc(1075)] No file for 80000054
+[0914/121514.505:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
